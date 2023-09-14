@@ -118,3 +118,36 @@ table, tr, th, td {
 .paddingniður{
     padding-bottom: 1rem;
 }
+
+.paddingtop{
+    padding-top: 5.1rem;
+}
+
+.paddingtop1{
+    padding-top: 2rem;
+}
+
+.box2{
+    display: block;
+}
+
+.retta{
+    vertical-align: top;
+}
+
+.stærð {
+    margin-left: 12rem;
+}
+
+.paddingh{
+    padding-right: 7rem;
+}
+
+.paddingv{
+    padding-left: 5rem;
+}
+
+.paddingsupa{
+    padding-left: 2rem;
+}
+
